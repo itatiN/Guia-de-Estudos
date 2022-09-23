@@ -98,13 +98,13 @@ Guia de estudos para estudantes de programação
 
 ## Extras
 #### Docker 
-  -Especie de virtualização com o intuito de colocar recursos do sistema operacional em uma cli
+  -Especie de virtualização com o intuito de colocar recursos do sistema operacional em uma cli<br>
   basico - https://www.youtube.com/watch?v=MeFyp4VnNx0
   
 #### Jenkins
-  -Servidor de automação de codigo. Tem o intuito de ser mais facil implementar testes e implatação de sotware,alem de ter ferramentas para CI/CD
+  -Servidor de automação de codigo. Tem o intuito de ser mais facil implementar testes e implatação de sotware,alem de ter ferramentas para CI/CD<br>
   basico - https://www.youtube.com/watch?v=8OfhS5f7jIY
   
 #### Selenium
-  -Framework para testes de aplicaçoes web
+  -Framework para testes de aplicaçoes web<br>
   completo - https://www.youtube.com/watch?v=t-4F56KlAv4
