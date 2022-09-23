@@ -87,10 +87,25 @@ Guia de estudos para estudantes de programação
 
 ## Linguagens Extras (focados em  mercado de trabalho)
 #### React
+  -Framework Javascript com foco em criar interfaces de usuário em páginas web<br>
+  introdução - https://www.youtube.com/watch?v=NhUr8cwDiiM<br>
+  completo - https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+  
 #### Flutter 
+  -Kit de desenvolvimento de interface de usuário que possibilita a criação de aplicativos compilados nativamente, para os sistemas operacionais Android, iOS, Windows, Mac, Linux e, Fuchsia e Web<br>
+  introdução - https://www.youtube.com/watch?v=XkEA4xT34jg | https://www.youtube.com/watch?v=vIP2iLFjEIk<br>
+  completo - https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB
+  
 #### Typecript
+  -Superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem<br>
+  introdução - https://www.youtube.com/watch?v=gmupEp468lY<br>
+  basico - https://www.youtube.com/watch?v=lCemyQeSCV8
+  
 #### Electron
-
+  -Permite desenvolver aplicações para desktop GUI usando componentes front end e back end originalmente criados para aplicações web: Node.js para o back end e Chromium para o front end.<br>
+  introdução - https://www.youtube.com/watch?v=Et7IBA0PhXk<br>
+  basico - https://www.youtube.com/watch?v=9f5aB911FJ8&list=PLWhiA_CuQkbCqT946EXFbvMQhK3oMpCsR
+  
 ## Banco de dados Extras
 #### Firebase
   -Conjunto de serviços de hospedagem para qualquer tipo de aplicativo<br>
