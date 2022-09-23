@@ -93,8 +93,17 @@ Guia de estudos para estudantes de programação
 
 ## Banco de dados Extras
 #### Firebase
+  -Conjunto de serviços de hospedagem para qualquer tipo de aplicativo<br>
+  introdução - https://www.youtube.com/watch?v=XKOpXMvk-3M<br>
+  basico - https://www.youtube.com/watch?v=uP_v6RhnP5U&list=PLHlHvK2lnJnccBL9grcoRxv8CsLa9Q_4q
 #### MongoDb
+  -Banco de dados orientado a documentos livre<br>
+  introdução - https://www.youtube.com/watch?v=4dTI1mVLX3I<br>
+  basico - https://www.youtube.com/watch?v=x9tC0eK0GtA
 #### Redis
+  -Banco de dados chave:valor focado em armazenamento de estruturas de dados em memoria<br>
+  introdução - https://www.youtube.com/watch?v=HMEwYxXFTjM<br>
+  completo - https://www.youtube.com/watch?v=GU6N8Qk2dBE&list=PLwGP6T2wG3jbsuEYPqCswwlx4aU0qhgW1
 
 ## Extras
 #### Docker 
