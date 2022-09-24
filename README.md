@@ -71,6 +71,8 @@ Guia de estudos para estudantes de programação
 #### Algoritmos de processamento de imagem
 
 #### Compiladores
+  -Um compilador é um programa de sistema que traduz um programa descrito em uma linguagem de alto nível para um programa equivalente em código de máquina.<br>
+  completo - https://www.youtube.com/watch?v=8rB8Dvczc1g&list=PL0Z-gyL9saMcajYH26KWKQG0nH2C2fsMQ
 
 
 
