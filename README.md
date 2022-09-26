@@ -2,7 +2,6 @@
 Guia de estudos para estudantes de programação 
 
 ## Faculdade
-#### C
 
 #### Arquitetura de computadores
 
@@ -15,8 +14,6 @@ Guia de estudos para estudantes de programação
 #### Banco de dados
   -É uma coleção organizada de informações,dados ou estruturadas, normalmente armazenadas em um sistema de computador<br>
   completo - https://www.youtube.com/watch?v=CQmX6GcpyvE&list=PLUae-M0w5U8dpoTgg15G2o2ypnCGoWXAU
-
-#### Desenvolvimento web em HTML5,CSS3, Javascript e PHP
 
 #### Paradigmas de programação
 
@@ -80,15 +77,40 @@ Guia de estudos para estudantes de programação
 
 ## Linguagens
 #### HTML,CSS3
+  -Linguagem de marcação e estilização para web<br>
+  introdução - https://www.youtube.com/watch?v=4dQtz1PpY9A | https://www.youtube.com/watch?v=229xfk3EEM8 <br>
+  completo - https://www.youtube.com/watch?v=nPEpaft1y1k | https://www.youtube.com/watch?v=r11FflkQqJs
+  
 #### Javascript
+  -Linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma<br>
+  introdução - https://www.youtube.com/watch?v=Ri76yOpLrNg<br>
+  completo - https://www.youtube.com/watch?v=McKNP3g6VBA&t=14865s
+  
 #### PHP
+  -Linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor<br>
+  introdução - https://www.youtube.com/watch?v=AqDj3OSV0mM<br>
+  completo - https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq
+  
 #### Python
+  -Linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte<br>
+  introdução - https://www.youtube.com/watch?v=uOgDa1rlqjE
+  completo - https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
+  
 #### C
+  -Conhecida como linguagem mãe
+  introdução - https://www.youtube.com/watch?v=6mUCcsnCn08
+  completo - https://www.youtube.com/watch?v=FH7YrE0RjWE&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4
+
 #### Java
+  -Linguagem de programação orientada a objetos<br>
+  introdução - https://www.youtube.com/watch?v=sZAxLRMxEUo<br>
+  completo - https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL
+  
 #### GO
   -É uma linguagem compilada e focada em produtividade e programação concorrente<br>
   introdução - https://www.youtube.com/watch?v=2kyNEf9IsBQ<br>
   completo - https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
+  
 #### SQL (usando mysql)
   -Sistema de gerenciamento de banco de dados Livre<br>
   completo - https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
