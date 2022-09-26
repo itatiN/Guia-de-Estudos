@@ -13,6 +13,8 @@ Guia de estudos para estudantes de programação
 #### Pensamento Computacional
 
 #### Banco de dados
+  -É uma coleção organizada de informações,dados ou estruturadas, normalmente armazenadas em um sistema de computador<br>
+  completo - https://www.youtube.com/watch?v=CQmX6GcpyvE&list=PLUae-M0w5U8dpoTgg15G2o2ypnCGoWXAU
 
 #### Desenvolvimento web em HTML5,CSS3, Javascript e PHP
 
@@ -83,7 +85,13 @@ Guia de estudos para estudantes de programação
 #### Python
 #### C
 #### Java
+#### GO
+  -É uma linguagem compilada e focada em produtividade e programação concorrente<br>
+  introdução - https://www.youtube.com/watch?v=2kyNEf9IsBQ<br>
+  completo - https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
 #### SQL (usando mysql)
+  -Sistema de gerenciamento de banco de dados Livre<br>
+  completo - https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
 
 
 
