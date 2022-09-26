@@ -128,7 +128,7 @@ Guia de estudos para estudantes de programação
 #### Redis
   -Banco de dados chave:valor focado em armazenamento de estruturas de dados em memoria<br>
   introdução - https://www.youtube.com/watch?v=HMEwYxXFTjM<br>
-  completo - https://www.youtube.com/watch?v=GU6N8Qk2dBE&list=PLwGP6T2wG3jbsuEYPqCswwlx4aU0qhgW1
+  completo - https://www.youtube.com/watch?v=sICh2Lw1tn0&list=PLWhiA_CuQkbA_nmwPvjxVUr4XucYUrYXi
 
 ## Extras
 #### Docker 
